@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Dohun in Dev World`,
+  title: `Dohun in Tech World`,
   description: `Dohun's Dev Blog`,
   author: `doinghun`,
   introduction: `Marketer turned Maker.`,
@@ -14,8 +14,8 @@ module.exports = {
   icon: `content/assets/icon1.svg`, // Add your favicon
   keywords: [`blog`],
   comment: {
-    disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'doinghun/dohun-blog-v2', // Your repository for archive comment
+    disqusShortName: 'doinghun', // Your disqus-short-name. check disqus.com.
+    utterances: '', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
