@@ -7,44 +7,39 @@ lang: 'en'
 <article class="l-Wrapper">
   <div class="l-Header">
     <h1 class="Title">
-      <span class="u-shadow">
         Dohun Kim
-      </span>
     </h1>
   </div>
 
 <br/>
 
-Hey there, I’m Dohun - Front-End Software Engineer.<br/>
-Currently living in Singapore 🇸🇬.
+Hey there, I’m Dohun. <br/>
+Frontend Software Developer <br/>
+Currently living in Singapore 🇸🇬
 
 <div class="l-Header">
-  <h1 class="Title">
-    <span class="u-shadow">
-      Work Experiences
-    </span>
-  </h1>
+    <h1 class="Title">
+        Work Experiences
+    </h1>
 </div>
 
 <a class="u-link" href="https://www.ibm.com/" target="_blank">IBM</a>
 
 |            |                            |
 | ---------: | -------------------------- |
-|  **TItle** | FrontEnd Software Engineer |
+|  **Title** | Frontend Software Engineer |
 | **Period** | 20.03 ~ Current            |
 
 <a class="u-link" href="https://www.skyscanner.co.kr" target="_blank">Skyscanner</a>
 
 |            |                 |
 | ---------: | --------------- |
-|  **TItle** | Growth Marketer |
+|  **Title** | Growth Marketer |
 | **Period** | 18.0 ~ 19.09    |
 
 <div class="l-Header">
   <h1 class="Title">
-    <span class="u-shadow">
       Contact
-    </span>
   </h1>
 </div>
 
