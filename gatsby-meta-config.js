@@ -1,9 +1,9 @@
 module.exports = {
   title: `Dohun in Tech World`,
-  description: `Dohun's Dev Blog`,
+  description: `Blog on Tech a-z`,
   author: `doinghun`,
-  introduction: `Marketer turned Maker.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `That tech guy who wants to know more`,
+  siteUrl: `https://www.dohun.xyz`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `doinghun`, // Your GitHub account
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'UA-149595338-1', // Add your google analytics tranking ID
 }
