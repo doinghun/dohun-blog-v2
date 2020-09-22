@@ -1,11 +1,11 @@
 module.exports = {
   title: `Dohun in Tech World`,
-  description: `Blog on Tech a-z`,
+  description: `Blog on Stuffs`,
   author: `doinghun`,
-  introduction: `That tech guy who wants to know more`,
+  introduction: `FrontEnd Developer in 🇸🇬. With ♥️ from 🇰🇷`,
   siteUrl: `https://www.dohun.xyz`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: `doinghun`, // Your Twitter account
     github: `doinghun`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account

@@ -14,7 +14,7 @@ export const Top = ({ title, location, rootPath }) => {
         </Link>
       )}
       <GitHubIcon />
-      <a href="https://doinghun.github.io/TIL" className="side-link">
+      <a href="https://dohun.xyz/TIL" className="side-link">
         TIL
       </a>
     </div>

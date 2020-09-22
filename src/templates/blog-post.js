@@ -32,6 +32,7 @@ export default ({ data, pageContext, location }) => {
   const thumbnailSrc = thumbnail
     ? `${siteUrl}${thumbnail.childImageSharp.fixed.src}`
     : undefined
+  const postUrl = `${siteUrl}${location.pathname}`
 
   return (
     <Layout location={location} title={title}>
@@ -43,7 +44,7 @@ export default ({ data, pageContext, location }) => {
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
-      <SocialShare title={postTitle} author={author} />
+      <SocialShare title={postTitle} url={postUrl} />
       {!!sponsor.buyMeACoffeeId && (
         <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
       )}

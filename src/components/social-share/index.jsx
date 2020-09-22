@@ -1,28 +1,40 @@
 import React from 'react'
-import { FacebookIcon } from './facebook-icon'
-import { TwitterIcon } from './twitter-icon'
-import { shareToTwitter, shareToFacebook } from '../../utils/share'
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  LinkedinShareButton,
+  LinkedinIcon,
+  TwitterShareButton,
+  TwitterIcon,
+  WhatsappShareButton,
+  WhatsappIcon,
+  TelegramShareButton,
+  TelegramIcon,
+} from 'react-share'
 
 import './index.scss'
+export const SocialShare = ({ url, title }) => (
+  <div className="social-share">
+    <FacebookShareButton url={url}>
+      <FacebookIcon size={32} round={true} />
+    </FacebookShareButton>
 
-export const SocialShare = ({ title, author }) => {
-  const text = `Recommend on "${title}" written by @${author}`
+    <TwitterShareButton url={url} title={title}>
+      <TwitterIcon size={32} round={true} />
+    </TwitterShareButton>
 
-  const onClickTwitterIcon = e => {
-    e.preventDefault()
+    <LinkedinShareButton url={url}>
+      <LinkedinIcon size={32} round={true} />
+    </LinkedinShareButton>
 
-    return shareToTwitter(window.location.href, text)
-  }
+    <TelegramShareButton url={url} title={title}>
+      <TelegramIcon size={32} round={true} />
+    </TelegramShareButton>
 
-  const onClickFacebookIcon = e => {
-    e.preventDefault()
-    return shareToFacebook(window.location.href, text)
-  }
+    <WhatsappShareButton url={url} title={title}>
+      <WhatsappIcon size={32} round={true} />
+    </WhatsappShareButton>
+  </div>
+)
 
-  return (
-    <div className="social-share">
-      <FacebookIcon onClick={onClickFacebookIcon} />
-      <TwitterIcon onClick={onClickTwitterIcon} />
-    </div>
-  )
-}
+export default SocialShare
