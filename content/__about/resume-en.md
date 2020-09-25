@@ -46,5 +46,5 @@ Currently living in Singapore 🇸🇬
 |            |                             |
 | :--------: | --------------------------- |
 | **GitHub** | https://github.com/doinghun |
-|  **Blog**  | https://do-ing.tech         |
+|  **Blog**  | https://dohun.xyz           |
 | **E-mail** | de.qtner@gmail.com          |

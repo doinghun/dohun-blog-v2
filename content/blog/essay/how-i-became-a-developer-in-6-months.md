@@ -6,12 +6,12 @@ thumbnail: './images/TIL.png'
 draft: false
 ---
 
-So finally, here comes a day I’m writing my own version of "How I Became a Developer". Just searching on google “How I Became a Developer” gives you thousands of Developers' stories and I personally sought inspiration and encouragement while preparing to become a Developer. Now that I've gone through the whole process of becoming a Developer from non-CS background, I want to share my account with anyone who might be reading this and wondering "Can I ever become a Software Developer?" - Yes, you can.
+So finally, here comes a day I’m writing my own version of "How I Became a Developer". Just searching on google “How I Became a Developer” gives you thousands of Developers' stories that I personally sought inspiration and encouragement while preparing to become a Developer. Now that I've gone through the whole process of becoming a self-taught Developer from non-CS background, I want to share my account with anyone who might be reading this and wondering "Can I ever become a Software Developer?" - Yes, you can.
 
 ### Table of Contents
 
 1. [Why I became a Software Developer](/essay/how-i-became-a-developer-in-6-months/#why-i-decided-to-become-a-software-developer)
-2. [How I became a Software Developer in 5 months](/essay/how-i-became-a-developer-in-6-months/#how-i-became-a-developer-in-5-months)
+2. [How I became a Software Developer in 6 months](/essay/how-i-became-a-developer-in-6-months/#how-i-became-a-self-taught-developer-in-6-months)
 3. [Retrospect](/essay/how-i-became-a-developer-in-6-months/#in-retrospect)
 
 
@@ -20,18 +20,19 @@ So finally, here comes a day I’m writing my own version of "How I Became a Dev
 ### Engineer but not really Engineer
 I graduated with Mechanical Engineering degree. The only take-away from my degree was that I knew I didn't want to do anything related to my degree. Softwares and tech industry intrigued me the most. So for my first job, I did Digital Marketing in a Travel Tech company for 1.5 years. And when I was about to dive deeper into Marketing or more specifically - <a href="https://brianbalfour.com/essays/growth-vs-marketing-vs-product" target="_blank">Growth</a>, I was fortunately (in the hindsight) given a choice to stay in the company or to leave the company with a compensation package. That was the moment when I decided to leave the company and become a Software Developer.
 
-### Make and Break
+### Make or Break
+
 Well of course, the idea of becoming a Developer didn’t just pop up on my mind one day. It goes back to the time when I launched a project in my uni years. My friends and I wanted to build a platform for self-storage in the university dorms (Image Airbnb for Self-Storage of personal goods). Our idea was validated winning Startup Idea Competitions and Innovation Grant from the university innovation centre. We had big ideas and plans except the most important part - a Developer to build the product. Eventually we didn’t move fast and were faced with obstacles we couldn’t get past, end of that story. (Maybe I’ll write more about this story in the future)
 
 There were many lessons learnt from this experience but the biggest one for me was this - you definitely need Software Developers to build a d*mn product. However, even after the lesson learnt, I thought it was too late to drop everything to study programming from the scratch. Most importantly, I thought I wasn’t smart enough to become one. I was so used to taking easy way out in life and couldn’t bring myself to believe that I can, indeed become a developer.
 
+Fast forward to a year and a half later, when it was again time to decide my career path, I was sure about my desire to become a Software Developer and was ready to take risks.
+
 ### So Why Did I Really Become a Developer?
 
-Looking back, I seem to have developed some kind of admiration for developers. One of my favourite show is "Silicon Valley" from HBO and I love how it comically portrays some cliché type of people in the SV. But I was especially awed at how the group of main characters (mostly Software Developers) hack their way out of the Startup scene in the SV. 
+Looking back, I seem to have developed some kind of admiration for developers. One of my favourite TV show is "Silicon Valley" from HBO. I loved how it comically portrays some cliché type of people in the SV. But I was especially fascinated by how the group of main characters (mostly Software Developers) hack their way up in the Startup scene at the SV. In the world of software, the idea that you can build any software product that could deliver value to users, in weeks or even days, is so amazing. And I wanted so much to be able to do that myself.
 
-In the wolrd of software, the idea that you can build any software product that could deliver value to users, in weeks or even days, is so amazing. And I wanted so much to be able to do that myself.
-
-## How I Became A Self-Taught Developer in 5 months
+## How I Became A Self-Taught Developer in 6 months
 
 I embarked on the road to become a developer with a self-study plan. **I did not attend any bootcamps.** Instead of signing up for a software development bootcamp, I had planned out 6 months plan to get hired with help from my Mentor who is a Software Developer himself.
 
@@ -63,7 +64,7 @@ By the phase 2, I solved probably about 50 leetcode questions (Easy & high accep
 
 ### Phase 3: Apply for Job, Study Interview Questions and Leetcode On (2 months++)
 
-4 months in, I wasn’t ready for job application but yet, I was. I wasn’t confident if I had the sufficient skillset to start working as a Developer in a company but I started crafting resume with a focus on my software projects. I began applying as soon as I felt that the resume had the bare minimum. This period fell in December for me and being it a holiday season for Singapore, so I had barely any replies (1 in 10). 5 months in and from January, I challenged myselft to submit 2 applications per day and about 20 applications in, phone interview emails and calls were coming in, meaning my resume got past the screening..! Then it was time to prepare Interview Questions.
+4 months in, I wasn’t ready for job application but yet, I was. I wasn’t confident if I had the sufficient skillset to start working as a Developer in a company but I started crafting resume with a focus on my software projects. I began applying as soon as I felt that the resume had the bare minimum. This period fell in December for me and being it a holiday season for Singapore, so I had barely any replies (1 in 10). 5 months in and from January, I challenged myself to submit 2 applications per day and about 20 applications in, phone interview emails and calls were coming in, meaning my resume got past the screening..! Then it was time to prepare Interview Questions.
 
 I specifically prepared for Front-End Interviews and most companies followed below format:
 
@@ -81,8 +82,8 @@ And by end of January 2020, I managed to get a favourable offer at a reputable t
 
 ## In Retrospect
 
-The journey to become a Software Developer from Non-CS background certainly wasn't easy and there were many times I seriously doubted myself and lost confidence. But I was really fortunate to have met a great mentor and a studymate (Big Shoutout to <a href="https://linkedin.com/in/marco-minsoo-kwak-44367388/" target="_blank">Marco</a> & <a href="https://www.linkedin.com/in/ireneyangkr/" target="_blank">Irene</a>!!) who guided me through the self-taught developer journey. Hearing stories of my mentor who made successful career transition to Developer gave me motivation that I could also do it and got me going. Also having a studymate with the same goal was really motivational, encouraging each other.
+The journey to become a Software Developer from Non-CS background certainly wasn't easy and there were many times I seriously doubted myself and lost confidence. But I was really fortunate to have met a great mentor and a studymate (Big Shoutout to <a href="https://linkedin.com/in/marco-minsoo-kwak-44367388/" target="_blank">Marco</a> & <a href="https://www.linkedin.com/in/ireneyangkr/" target="_blank">Irene</a>!!) who guided me through the self-taught developer journey. Listening to my mentor's story of career transition to Developer gave me motivation that I could also do it and got me going. Also having a studymate with the same goal was really motivational, encouraging each other.
 
-I often went to Medium or searched Google to read more stories of developers with Non-CS background and got motivation from there and I hope this article serves as one to someone, too. Especially now with the whole world hit with COVID-19 and the resulting uncertainty, it's obvious that the best investment one can make is to learn relevant skill like Software Development and use it to survive in the job market.
+I often went to Medium or searched Google to find more stories of developers with Non-CS background to get motivation and I hope this article serves as one to someone, too. Especially now with the whole world hit with COVID-19 and the resulting uncertainty, it's obvious that the best investment one can make is to learn relevant skill like Software Development and use it to survive in the job market.
 
 For me, this is only the start to a life of continuous debugging and troubleshooting as a Developer. Nonetheless, I’m really grateful and excited to start off my career as a Software Developer 😃
